@@ -1,9 +1,6 @@
 #pragma once
 /*
  * TCPUtilities.h
- *
- * Created on: 27-Nov-2014
- * Author: jus-mine
  */
 
 #ifndef TCPUTILITIES_H_
