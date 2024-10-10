@@ -46,11 +46,16 @@ Adding GUI Support for ease of use.
 
 Integrating with third-party SIEM solutions for automated threat response.
 
-Authors
-Krenil Raj
-Shubh Patel
-Prarthan Christian
-Kartikay Mistry
+## Authors
+
+1. Krenil Raj
+
+2. Shubh Patel
+
+3. Prarthan Christian
+
+4. Kartikay Mistry
 
 ## License
+
 This project is licensed under the MIT License.
