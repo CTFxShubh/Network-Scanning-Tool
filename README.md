@@ -23,9 +23,13 @@ Logging & Auditing: Maintains detailed logs of scan activities for auditing and 
 Before compiling and running the tool, ensure you have the following:
 
 ~ GCC Compiler
+
 ~ Make
+
 ~ pthread libraries 
+
 ~ libpcap or any other necessary network libraries.
+
 ~ Supported scan types include:
 
 1. tcp
